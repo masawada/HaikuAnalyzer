@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.3)
+    natto (0.9.6)
+      ffi (>= 1.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  natto
