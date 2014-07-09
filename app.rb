@@ -9,6 +9,8 @@ loop do
   when "exit", "終了", "閉じる", "終わる", "フィニッシュ"
     puts "ハイク・アナライザを終了します"
     exit
+  when "clear"
+    system "clear"
   when ""
   else
     if analyzer.parse(buf)
