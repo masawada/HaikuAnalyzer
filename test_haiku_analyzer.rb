@@ -20,6 +20,7 @@ class TestHaikuAnalyzer < Test::Unit::TestCase
       'ハイクを詠め。カイシャクしてやる',
       '金をくれ',
       'ジャスミンティーおいしい',
+      '五月雨大好き与謝蕪村'
     ]
   end
 
