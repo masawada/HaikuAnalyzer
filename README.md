@@ -23,7 +23,7 @@ MeCabのインストールが終わったら`bundle install --path vendor/bundle
 $ bundle exec ruby app.rb
 > 古池や蛙飛び込む水の音
 これはハイクです
-> 赤信号みんなで渡れば怖くない
+> 五月雨や大河を前に家二軒
 これはハイクです
 > 金をくれ
 これはハイクではありません
